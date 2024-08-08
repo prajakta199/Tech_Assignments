@@ -5,7 +5,7 @@ This repo defines the test scripts for the [BrowserStack demo website](https://b
 ## Prerequisite
 * Python3
 
-## Setup
+## Setup#
 
 * Clone the repo
 * Install dependencies `pip install -r requirements.txt`
